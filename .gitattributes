@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Used linguist-language to change repository language
 *.cginc linguist-language=.cs
 *.shader linguist-language=.cs
