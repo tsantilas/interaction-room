@@ -4,7 +4,7 @@
 </p>
 
 ## intro
-Welcome to the Interaction Room! This is an interactive scene I created in Unity,<i> actually my very first project on this new journey</i>, with simple assets (animations, objects, materials) made completely by me in order to showcase some simple features.
+Welcome to the Interaction Room! This is an interactive scene I created in Unity,<i> actually my very first project on this new journey</i>, with simple assets (animations, objects, materials) made completely by me in order to showcase some basic features.
 
 ## description
 The interaction starts outside the room. The player (a capsule - sike) spawns outside the room facing a closed door. Once he moves closer to the door a message pops up on the screen saying "INTERACT [F]" and he's able to open the door by using the interact button.
