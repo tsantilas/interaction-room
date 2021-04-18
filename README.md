@@ -14,7 +14,7 @@ On the first side there is a light switch (button) and a light. Once the player 
 
 The other side of the room is being surveilled by a CCTV. The moment that the player steps inside that area the CCTV will begin following him and a message will pop up in the middle of the screen saying "YOU ARE BEING WATCHED" as the camera follows his movement.
 
-## quick showcase (gif)
+## quick showcase
 
 <p align="center">
   <img src="https://github.com/tsantilas/interaction-room/blob/main/Images/interaction-room-showcase.gif">
