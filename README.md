@@ -1,6 +1,6 @@
 # interaction-room
 <p align="center">
-  <img src="https://github.com/tsantilas/interaction-room/blob/main/Images/interaction_room_banner.png?raw=true">
+  <img src="https://github.com/tsantilas/interaction-room/blob/main/Showcase/interaction_room_banner.png?raw=true">
 </p>
 
 ## intro
@@ -16,5 +16,5 @@ The other side of the room is being surveilled by a CCTV. The moment that the pl
 
 ## quick showcase
 <p align="center">
-  <img src="https://github.com/tsantilas/interaction-room/blob/main/Images/interaction-room-showcase.gif">
+  <img src="https://github.com/tsantilas/interaction-room/blob/main/Showcase/interaction-room-showcase.gif">
 </p>
